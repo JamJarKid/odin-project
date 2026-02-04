@@ -1,5 +1,5 @@
 export default function Person() {
-    const [person, setPerson] = useState({ name: "John", age: 100 });
+    const [person, setPerson] = useState({ firstName: "John", lastName: "Wick", age: 100 });
 
     const handleIncreaseAge = () => {
         // copy the existing person object into a new object

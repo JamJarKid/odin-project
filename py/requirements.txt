@@ -1,7 +1,0 @@
-numpy
-pandas
-jupyter
-jupyterthemes
-mdutils
-ipykernel
-streamlit
