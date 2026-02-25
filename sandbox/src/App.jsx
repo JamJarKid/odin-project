@@ -20,6 +20,7 @@ function App() {
         backgroundColor,
       }}
     >
+      <Person />
       {COLORS.map((color) => (
         <button
           type="button"
